@@ -1,7 +1,5 @@
 #upper.py ver. 1.2 by Ken Pryor 09/02/2022
-#Accepts input of lower/mixed case text,
-#converts it to uppercase & sends output
-#clipboard for easy pasting to other app.
+#Accepts input of lower/mixed case text,#converts it to uppercase & sends output to the clipboard. Offers to output to a text file as well.
 
 import pyperclip as pc
 
