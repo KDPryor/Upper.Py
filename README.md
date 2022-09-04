@@ -1,4 +1,4 @@
-# Upper.Py ver 1.2
+# upper.py
 by Ken Pryor
 
 Python 3 script I created for a need at work
